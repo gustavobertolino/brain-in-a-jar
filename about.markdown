@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Brain in a jar is a blog where I can share my thoughts about my software development experience in general. 
+I play with the word 'jar' because it can mean two things depending on which context it is used. In philosophy 'jar' is 
+used with its plain meaning but in a very specific thought experiment about the reality of our perpectual experiences. 
+On other hand, 'jar' in software development means the executable artefact generated in Java to be run upon JVM
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
