@@ -10,6 +10,7 @@ used with its plain meaning but in a very specific thought experiment about the 
 On other hand, 'jar' in software development means the executable artefact generated in Java to be run upon JVM
 
 The source code of the tools used in this blog
+
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
